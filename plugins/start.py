@@ -18,7 +18,7 @@ from database.sql import add_user, query_msg
 
 WAIT_MSG = """"<b>Processing ...</b>"""
 
-REPLY_ERROR = """<code>Use this command as a replay to any telegram message with out any spaces.</code>"""
+REPLY_ERROR = """<code>wrong commands!! please join our mm channel and select the file and try again.</code>"""
 
 
 #=====================================================================================##
